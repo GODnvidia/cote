@@ -1,3 +1,3 @@
-﻿# 자기소개하기
+﻿# first file
 
- 조해창: 사람 처럼 행동하는 AGI 로봇 만들기
+# algorithm to hot, so I'm burned, feel like ("losing to machine") holllllly shXX
